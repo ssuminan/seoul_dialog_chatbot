@@ -8,11 +8,11 @@ ChatGPT를 활용한 서울시 생성 AI ChatBot Demo 입니다.
 
 ## Requirements
 ```python
-conda install pytorch::pytorch torchvision torchaudio -c pytorch
-conda install streamlit
-conda install openai
-conda install sentence_transformers
-conda install streamlit_chat
+pip install pytorch
+pip install streamlit
+pip install openai
+pip install sentence_transformers
+pip install streamlit_chat
 ```
 
 ## Usage
@@ -22,4 +22,5 @@ streamlit run app.py
 ```
 
 ## Example
-<img width="1582" alt="스크린샷 2023-05-17 오후 7 56 54" src="https://github.com/ssuminan/seoul_dialog_chatbot/assets/109983468/9fd7538c-af44-4435-9933-3c4b9edf2ee4">
+<img width="1582" alt="스크린샷 2023-05-18 오후 6 37 36" src="https://github.com/ssuminan/seoul_dialog_chatbot/assets/109983468/bfcad4eb-62b9-4fde-aba0-bcccb9ee0f7b">
+
