@@ -22,5 +22,6 @@ streamlit run app.py
 ```
 
 ## Example
-<img width="1582" alt="스크린샷 2023-05-18 오후 6 37 36" src="https://github.com/ssuminan/seoul_dialog_chatbot/assets/109983468/bfcad4eb-62b9-4fde-aba0-bcccb9ee0f7b">
+<img width="1582" alt="스크린샷 2023-05-18 오후 6 37 36" src="https://github.com/ssuminan/seoul_dialog_chatbot/assets/109983468/f39b4b14-6036-451f-8aa6-b455f3e70815">
+
 
